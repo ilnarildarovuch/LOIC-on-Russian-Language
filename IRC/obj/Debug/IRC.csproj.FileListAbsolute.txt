@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\LOIC\src\bin\Debug\IRC.dll
+C:\Users\user\Source\Repos\LOIC\src\bin\Debug\IRC.pdb
+C:\Users\user\Source\Repos\LOIC\src\IRC\obj\Debug\IRC.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\LOIC\src\IRC\obj\Debug\IRC.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\LOIC\src\IRC\obj\Debug\IRC.csproj.Up2Date
+C:\Users\user\Source\Repos\LOIC\src\IRC\obj\Debug\IRC.dll
+C:\Users\user\Source\Repos\LOIC\src\IRC\obj\Debug\IRC.pdb

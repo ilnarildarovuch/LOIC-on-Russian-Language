@@ -1,0 +1,15 @@
+C:\Users\user\Source\Repos\LOIC\src\bin\Debug\LOIC.exe.config
+C:\Users\user\Source\Repos\LOIC\src\bin\Debug\LOIC.exe
+C:\Users\user\Source\Repos\LOIC\src\bin\Debug\LOIC.pdb
+C:\Users\user\Source\Repos\LOIC\src\bin\Debug\IRC.pdb
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.frmEZGrab.resources
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.frmMain.resources
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.frmEULA.resources
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.frmWtf.resources
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.Properties.Resources.resources
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.csproj.Up2Date
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.exe
+C:\Users\user\Source\Repos\LOIC\src\obj\Debug\LOIC.pdb
